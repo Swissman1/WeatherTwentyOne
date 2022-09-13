@@ -25,6 +25,7 @@
 	<SupportedOSPlatformVersion Condition="'$(TargetFramework)' == 'net6.0-android'">21.0</SupportedOSPlatformVersion>
 	<SupportedOSPlatformVersion Condition="$(TargetFramework.Contains('-windows'))">10.0.17763.0</SupportedOSPlatformVersion>
 	<TargetPlatformMinVersion Condition="$(TargetFramework.Contains('-windows'))">10.0.17763.0</TargetPlatformMinVersion>
+	  <Nullable>enable</Nullable>	  
 	
   </PropertyGroup>
 
@@ -53,6 +54,11 @@
 	  </Content>
 	</ItemGroup>
 
-   <ProjectExtensions><VisualStudio><UserProperties XamarinHotReloadGenericExceptionInfoBarWeatherTwentyOneHideInfoBar="True" /></VisualStudio></ProjectExtensions>
+	<ItemGroup>
+	  <PackageReference Include="CommunityToolkit.Mvvm" Version="8.0.0" />
+	  <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+	</ItemGroup>
+
+   <ProjectExtensions><VisualStudio><UserProperties services_4weather_1json__JsonSchema="https://appsemble.app/api.json" XamarinHotReloadGenericExceptionInfoBarWeatherTwentyOneHideInfoBar="True" /></VisualStudio></ProjectExtensions>
 
 </Project>

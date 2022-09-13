@@ -1,14 +1,19 @@
 ﻿using System.ComponentModel;
 using System.Runtime.CompilerServices;
+using CommunityToolkit.Mvvm.ComponentModel;
+using WeatherClient2021;
 using WeatherTwentyOne.Models;
 
 namespace WeatherTwentyOne.ViewModels;
 
-public class HomeViewModel : INotifyPropertyChanged
+public partial class HomeViewModel : ObservableObject, INotifyPropertyChanged
 {
     public List<Forecast> Week { get; set; }
 
     public List<Forecast> Hours { get; set; }
+
+    [ObservableProperty]
+    private WeatherForecast weatherForecast;
 
     public Command QuitCommand { get; set; } = new Command(() => {
         Application.Current.Quit();
@@ -27,6 +32,7 @@ public class HomeViewModel : INotifyPropertyChanged
     });
 
     private Command toggleModeCommand;
+    private IWeatherService weatherService;
 
     public Command ToggleModeCommand {
         get {
@@ -38,8 +44,9 @@ public class HomeViewModel : INotifyPropertyChanged
         }
     }
 
-    public HomeViewModel()
+    public HomeViewModel(IWeatherService weatherService)
     {
+        this.weatherService = weatherService;
         InitData();
 
         ToggleModeCommand = new Command(() => {
@@ -55,7 +62,7 @@ public class HomeViewModel : INotifyPropertyChanged
                 {
                     DateTime = DateTime.Today.AddDays(1),
                     Day = new Day{ Phrase = "fluent_weather_sunny_high_20_filled" },
-                    Temperature = new Temperature{ Minimum = new Minimum{ Unit = "F", Value = 52 }, Maximum = new Maximum { Unit = "F", Value = 77 } },
+                    Temperature = new TempExtremes{ Minimum = new Minimum{ Unit = "F", Value = 52 }, Maximum = new Maximum { Unit = "F", Value = 77 } },
                 },
                 new Forecast
                 {

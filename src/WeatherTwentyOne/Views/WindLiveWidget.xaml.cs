@@ -1,13 +1,16 @@
-﻿namespace WeatherTwentyOne.Views;
+﻿using WeatherTwentyOne.ViewModels;
+
+namespace WeatherTwentyOne.Views;
 
 public partial class WindLiveWidget:VerticalStackLayout
 {
     Random rand;
     System.Timers.Timer aTimer;
 
-    public WindLiveWidget()
+    public WindLiveWidget(HomeViewModel viewModel)
     {
         InitializeComponent();            
+        BindingContext = viewModel;
     }
 
     public void OnTapped(object sender, EventArgs e)

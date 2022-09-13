@@ -1,0 +1,1099 @@
+﻿{
+  "location": {
+    "latitude": 35.09,
+    "longitude": -80.82,
+    "name": "",
+    "elevation": 0
+  },
+  "forecastValues": [
+    {
+      "validTime": {
+        "start": "2022-09-12T20:00:00-04:00",
+        "end": null
+      },
+      "isDayTime": false,
+      "temperature": {
+        "value": 77,
+        "unit": "°F"
+      },
+      "relativeHumidity": {
+        "value": 81,
+        "unit": "%"
+      },
+      "windSpeed": {
+        "value": 4,
+        "unit": "mph"
+      },
+      "windDirection": {
+        "value": 240,
+        "unit": ""
+      },
+      "chanceRain": {
+        "value": 56,
+        "unit": "%"
+      },
+      "cloudCover": {
+        "value": 28,
+        "unit": "%"
+      },
+      "weatherDesc": "Slight chance of light Undefined.",
+      "weatherType": 12
+    },
+    {
+      "validTime": {
+        "start": "2022-09-12T23:00:00-04:00",
+        "end": null
+      },
+      "isDayTime": false,
+      "temperature": {
+        "value": 72,
+        "unit": "°F"
+      },
+      "relativeHumidity": {
+        "value": 93,
+        "unit": "%"
+      },
+      "windSpeed": {
+        "value": 3,
+        "unit": "mph"
+      },
+      "windDirection": {
+        "value": 240,
+        "unit": ""
+      },
+      "chanceRain": {
+        "value": 56,
+        "unit": "%"
+      },
+      "cloudCover": {
+        "value": 32,
+        "unit": "%"
+      },
+      "weatherDesc": "Of  None.",
+      "weatherType": 2
+    },
+    {
+      "validTime": {
+        "start": "2022-09-13T02:00:00-04:00",
+        "end": null
+      },
+      "isDayTime": false,
+      "temperature": {
+        "value": 69,
+        "unit": "°F"
+      },
+      "relativeHumidity": {
+        "value": 93,
+        "unit": "%"
+      },
+      "windSpeed": {
+        "value": 4,
+        "unit": "mph"
+      },
+      "windDirection": {
+        "value": 340,
+        "unit": ""
+      },
+      "chanceRain": {
+        "value": 56,
+        "unit": "%"
+      },
+      "cloudCover": {
+        "value": 45,
+        "unit": "%"
+      },
+      "weatherDesc": "Patchy Fog.",
+      "weatherType": 14
+    },
+    {
+      "validTime": {
+        "start": "2022-09-13T05:00:00-04:00",
+        "end": null
+      },
+      "isDayTime": false,
+      "temperature": {
+        "value": 66,
+        "unit": "°F"
+      },
+      "relativeHumidity": {
+        "value": 90,
+        "unit": "%"
+      },
+      "windSpeed": {
+        "value": 3,
+        "unit": "mph"
+      },
+      "windDirection": {
+        "value": 0,
+        "unit": ""
+      },
+      "chanceRain": {
+        "value": 56,
+        "unit": "%"
+      },
+      "cloudCover": {
+        "value": 41,
+        "unit": "%"
+      },
+      "weatherDesc": "Of  None.",
+      "weatherType": 3
+    },
+    {
+      "validTime": {
+        "start": "2022-09-13T08:00:00-04:00",
+        "end": null
+      },
+      "isDayTime": true,
+      "temperature": {
+        "value": 64,
+        "unit": "°F"
+      },
+      "relativeHumidity": {
+        "value": 87,
+        "unit": "%"
+      },
+      "windSpeed": {
+        "value": 4,
+        "unit": "mph"
+      },
+      "windDirection": {
+        "value": 0,
+        "unit": ""
+      },
+      "chanceRain": {
+        "value": 18,
+        "unit": "%"
+      },
+      "cloudCover": {
+        "value": 36,
+        "unit": "%"
+      },
+      "weatherDesc": "Of  None.",
+      "weatherType": 2
+    },
+    {
+      "validTime": {
+        "start": "2022-09-13T11:00:00-04:00",
+        "end": null
+      },
+      "isDayTime": true,
+      "temperature": {
+        "value": 74,
+        "unit": "°F"
+      },
+      "relativeHumidity": {
+        "value": 54,
+        "unit": "%"
+      },
+      "windSpeed": {
+        "value": 5,
+        "unit": "mph"
+      },
+      "windDirection": {
+        "value": 0,
+        "unit": ""
+      },
+      "chanceRain": {
+        "value": 18,
+        "unit": "%"
+      },
+      "cloudCover": {
+        "value": 16,
+        "unit": "%"
+      },
+      "weatherDesc": "Of  None.",
+      "weatherType": 8
+    },
+    {
+      "validTime": {
+        "start": "2022-09-13T14:00:00-04:00",
+        "end": null
+      },
+      "isDayTime": true,
+      "temperature": {
+        "value": 81,
+        "unit": "°F"
+      },
+      "relativeHumidity": {
+        "value": 41,
+        "unit": "%"
+      },
+      "windSpeed": {
+        "value": 3,
+        "unit": "mph"
+      },
+      "windDirection": {
+        "value": 310,
+        "unit": ""
+      },
+      "chanceRain": {
+        "value": 18,
+        "unit": "%"
+      },
+      "cloudCover": {
+        "value": 20,
+        "unit": "%"
+      },
+      "weatherDesc": "Of  None.",
+      "weatherType": 8
+    },
+    {
+      "validTime": {
+        "start": "2022-09-13T17:00:00-04:00",
+        "end": null
+      },
+      "isDayTime": true,
+      "temperature": {
+        "value": 83,
+        "unit": "°F"
+      },
+      "relativeHumidity": {
+        "value": 38,
+        "unit": "%"
+      },
+      "windSpeed": {
+        "value": 4,
+        "unit": "mph"
+      },
+      "windDirection": {
+        "value": 290,
+        "unit": ""
+      },
+      "chanceRain": {
+        "value": 18,
+        "unit": "%"
+      },
+      "cloudCover": {
+        "value": 24,
+        "unit": "%"
+      },
+      "weatherDesc": "Of  None.",
+      "weatherType": 2
+    },
+    {
+      "validTime": {
+        "start": "2022-09-13T20:00:00-04:00",
+        "end": null
+      },
+      "isDayTime": false,
+      "temperature": {
+        "value": 73,
+        "unit": "°F"
+      },
+      "relativeHumidity": {
+        "value": 57,
+        "unit": "%"
+      },
+      "windSpeed": {
+        "value": 2,
+        "unit": "mph"
+      },
+      "windDirection": {
+        "value": 340,
+        "unit": ""
+      },
+      "chanceRain": {
+        "value": 2,
+        "unit": "%"
+      },
+      "cloudCover": {
+        "value": 48,
+        "unit": "%"
+      },
+      "weatherDesc": "Of  None.",
+      "weatherType": 3
+    },
+    {
+      "validTime": {
+        "start": "2022-09-13T23:00:00-04:00",
+        "end": null
+      },
+      "isDayTime": false,
+      "temperature": {
+        "value": 67,
+        "unit": "°F"
+      },
+      "relativeHumidity": {
+        "value": 68,
+        "unit": "%"
+      },
+      "windSpeed": {
+        "value": 2,
+        "unit": "mph"
+      },
+      "windDirection": {
+        "value": 320,
+        "unit": ""
+      },
+      "chanceRain": {
+        "value": 2,
+        "unit": "%"
+      },
+      "cloudCover": {
+        "value": 5,
+        "unit": "%"
+      },
+      "weatherDesc": "Of  None.",
+      "weatherType": 8
+    },
+    {
+      "validTime": {
+        "start": "2022-09-14T02:00:00-04:00",
+        "end": null
+      },
+      "isDayTime": false,
+      "temperature": {
+        "value": 63,
+        "unit": "°F"
+      },
+      "relativeHumidity": {
+        "value": 75,
+        "unit": "%"
+      },
+      "windSpeed": {
+        "value": 3,
+        "unit": "mph"
+      },
+      "windDirection": {
+        "value": 340,
+        "unit": ""
+      },
+      "chanceRain": {
+        "value": 2,
+        "unit": "%"
+      },
+      "cloudCover": {
+        "value": 6,
+        "unit": "%"
+      },
+      "weatherDesc": "Of  None.",
+      "weatherType": 8
+    },
+    {
+      "validTime": {
+        "start": "2022-09-14T05:00:00-04:00",
+        "end": null
+      },
+      "isDayTime": false,
+      "temperature": {
+        "value": 61,
+        "unit": "°F"
+      },
+      "relativeHumidity": {
+        "value": 84,
+        "unit": "%"
+      },
+      "windSpeed": {
+        "value": 4,
+        "unit": "mph"
+      },
+      "windDirection": {
+        "value": 10,
+        "unit": ""
+      },
+      "chanceRain": {
+        "value": 2,
+        "unit": "%"
+      },
+      "cloudCover": {
+        "value": 2,
+        "unit": "%"
+      },
+      "weatherDesc": "Of  None.",
+      "weatherType": 8
+    },
+    {
+      "validTime": {
+        "start": "2022-09-14T08:00:00-04:00",
+        "end": null
+      },
+      "isDayTime": true,
+      "temperature": {
+        "value": 62,
+        "unit": "°F"
+      },
+      "relativeHumidity": {
+        "value": 80,
+        "unit": "%"
+      },
+      "windSpeed": {
+        "value": 4,
+        "unit": "mph"
+      },
+      "windDirection": {
+        "value": 30,
+        "unit": ""
+      },
+      "chanceRain": {
+        "value": 2,
+        "unit": "%"
+      },
+      "cloudCover": {
+        "value": 2,
+        "unit": "%"
+      },
+      "weatherDesc": "Of  None.",
+      "weatherType": 8
+    },
+    {
+      "validTime": {
+        "start": "2022-09-14T11:00:00-04:00",
+        "end": null
+      },
+      "isDayTime": true,
+      "temperature": {
+        "value": 74,
+        "unit": "°F"
+      },
+      "relativeHumidity": {
+        "value": 58,
+        "unit": "%"
+      },
+      "windSpeed": {
+        "value": 6,
+        "unit": "mph"
+      },
+      "windDirection": {
+        "value": 30,
+        "unit": ""
+      },
+      "chanceRain": {
+        "value": 2,
+        "unit": "%"
+      },
+      "cloudCover": {
+        "value": 1,
+        "unit": "%"
+      },
+      "weatherDesc": "Of  None.",
+      "weatherType": 8
+    },
+    {
+      "validTime": {
+        "start": "2022-09-14T14:00:00-04:00",
+        "end": null
+      },
+      "isDayTime": true,
+      "temperature": {
+        "value": 80,
+        "unit": "°F"
+      },
+      "relativeHumidity": {
+        "value": 47,
+        "unit": "%"
+      },
+      "windSpeed": {
+        "value": 4,
+        "unit": "mph"
+      },
+      "windDirection": {
+        "value": 20,
+        "unit": ""
+      },
+      "chanceRain": {
+        "value": 2,
+        "unit": "%"
+      },
+      "cloudCover": {
+        "value": 3,
+        "unit": "%"
+      },
+      "weatherDesc": "Of  None.",
+      "weatherType": 8
+    },
+    {
+      "validTime": {
+        "start": "2022-09-14T17:00:00-04:00",
+        "end": null
+      },
+      "isDayTime": true,
+      "temperature": {
+        "value": 81,
+        "unit": "°F"
+      },
+      "relativeHumidity": {
+        "value": 47,
+        "unit": "%"
+      },
+      "windSpeed": {
+        "value": 5,
+        "unit": "mph"
+      },
+      "windDirection": {
+        "value": 10,
+        "unit": ""
+      },
+      "chanceRain": {
+        "value": 2,
+        "unit": "%"
+      },
+      "cloudCover": {
+        "value": 6,
+        "unit": "%"
+      },
+      "weatherDesc": "Of  None.",
+      "weatherType": 8
+    },
+    {
+      "validTime": {
+        "start": "2022-09-14T20:00:00-04:00",
+        "end": null
+      },
+      "isDayTime": false,
+      "temperature": {
+        "value": 73,
+        "unit": "°F"
+      },
+      "relativeHumidity": {
+        "value": 64,
+        "unit": "%"
+      },
+      "windSpeed": {
+        "value": 3,
+        "unit": "mph"
+      },
+      "windDirection": {
+        "value": 50,
+        "unit": ""
+      },
+      "chanceRain": {
+        "value": 1,
+        "unit": "%"
+      },
+      "cloudCover": {
+        "value": 4,
+        "unit": "%"
+      },
+      "weatherDesc": "Of  None.",
+      "weatherType": 8
+    },
+    {
+      "validTime": {
+        "start": "2022-09-15T02:00:00-04:00",
+        "end": null
+      },
+      "isDayTime": false,
+      "temperature": {
+        "value": 64,
+        "unit": "°F"
+      },
+      "relativeHumidity": {
+        "value": 80,
+        "unit": "%"
+      },
+      "windSpeed": {
+        "value": 3,
+        "unit": "mph"
+      },
+      "windDirection": {
+        "value": 20,
+        "unit": ""
+      },
+      "chanceRain": {
+        "value": 1,
+        "unit": "%"
+      },
+      "cloudCover": {
+        "value": 5,
+        "unit": "%"
+      },
+      "weatherDesc": "Of  None.",
+      "weatherType": 8
+    },
+    {
+      "validTime": {
+        "start": "2022-09-15T08:00:00-04:00",
+        "end": null
+      },
+      "isDayTime": true,
+      "temperature": {
+        "value": 63,
+        "unit": "°F"
+      },
+      "relativeHumidity": {
+        "value": 84,
+        "unit": "%"
+      },
+      "windSpeed": {
+        "value": 5,
+        "unit": "mph"
+      },
+      "windDirection": {
+        "value": 20,
+        "unit": ""
+      },
+      "chanceRain": {
+        "value": 2,
+        "unit": "%"
+      },
+      "cloudCover": {
+        "value": 6,
+        "unit": "%"
+      },
+      "weatherDesc": "Of  None.",
+      "weatherType": 8
+    },
+    {
+      "validTime": {
+        "start": "2022-09-15T14:00:00-04:00",
+        "end": null
+      },
+      "isDayTime": true,
+      "temperature": {
+        "value": 83,
+        "unit": "°F"
+      },
+      "relativeHumidity": {
+        "value": 45,
+        "unit": "%"
+      },
+      "windSpeed": {
+        "value": 6,
+        "unit": "mph"
+      },
+      "windDirection": {
+        "value": 60,
+        "unit": ""
+      },
+      "chanceRain": {
+        "value": 2,
+        "unit": "%"
+      },
+      "cloudCover": {
+        "value": 6,
+        "unit": "%"
+      },
+      "weatherDesc": "Of  None.",
+      "weatherType": 8
+    },
+    {
+      "validTime": {
+        "start": "2022-09-15T20:00:00-04:00",
+        "end": null
+      },
+      "isDayTime": false,
+      "temperature": {
+        "value": 76,
+        "unit": "°F"
+      },
+      "relativeHumidity": {
+        "value": 58,
+        "unit": "%"
+      },
+      "windSpeed": {
+        "value": 4,
+        "unit": "mph"
+      },
+      "windDirection": {
+        "value": 80,
+        "unit": ""
+      },
+      "chanceRain": {
+        "value": 3,
+        "unit": "%"
+      },
+      "cloudCover": {
+        "value": 19,
+        "unit": "%"
+      },
+      "weatherDesc": "Of  None.",
+      "weatherType": 8
+    },
+    {
+      "validTime": {
+        "start": "2022-09-16T02:00:00-04:00",
+        "end": null
+      },
+      "isDayTime": false,
+      "temperature": {
+        "value": 65,
+        "unit": "°F"
+      },
+      "relativeHumidity": {
+        "value": 80,
+        "unit": "%"
+      },
+      "windSpeed": {
+        "value": 2,
+        "unit": "mph"
+      },
+      "windDirection": {
+        "value": 50,
+        "unit": ""
+      },
+      "chanceRain": {
+        "value": 3,
+        "unit": "%"
+      },
+      "cloudCover": {
+        "value": 12,
+        "unit": "%"
+      },
+      "weatherDesc": "Of  None.",
+      "weatherType": 8
+    },
+    {
+      "validTime": {
+        "start": "2022-09-16T08:00:00-04:00",
+        "end": null
+      },
+      "isDayTime": true,
+      "temperature": {
+        "value": 63,
+        "unit": "°F"
+      },
+      "relativeHumidity": {
+        "value": 86,
+        "unit": "%"
+      },
+      "windSpeed": {
+        "value": 5,
+        "unit": "mph"
+      },
+      "windDirection": {
+        "value": 20,
+        "unit": ""
+      },
+      "chanceRain": {
+        "value": 3,
+        "unit": "%"
+      },
+      "cloudCover": {
+        "value": 8,
+        "unit": "%"
+      },
+      "weatherDesc": "Of  None.",
+      "weatherType": 8
+    },
+    {
+      "validTime": {
+        "start": "2022-09-16T14:00:00-04:00",
+        "end": null
+      },
+      "isDayTime": true,
+      "temperature": {
+        "value": 82,
+        "unit": "°F"
+      },
+      "relativeHumidity": {
+        "value": 48,
+        "unit": "%"
+      },
+      "windSpeed": {
+        "value": 7,
+        "unit": "mph"
+      },
+      "windDirection": {
+        "value": 70,
+        "unit": ""
+      },
+      "chanceRain": {
+        "value": 3,
+        "unit": "%"
+      },
+      "cloudCover": {
+        "value": 24,
+        "unit": "%"
+      },
+      "weatherDesc": "Of  None.",
+      "weatherType": 2
+    },
+    {
+      "validTime": {
+        "start": "2022-09-16T20:00:00-04:00",
+        "end": null
+      },
+      "isDayTime": false,
+      "temperature": {
+        "value": 76,
+        "unit": "°F"
+      },
+      "relativeHumidity": {
+        "value": 57,
+        "unit": "%"
+      },
+      "windSpeed": {
+        "value": 5,
+        "unit": "mph"
+      },
+      "windDirection": {
+        "value": 70,
+        "unit": ""
+      },
+      "chanceRain": {
+        "value": 4,
+        "unit": "%"
+      },
+      "cloudCover": {
+        "value": 29,
+        "unit": "%"
+      },
+      "weatherDesc": "Of  None.",
+      "weatherType": 2
+    },
+    {
+      "validTime": {
+        "start": "2022-09-17T02:00:00-04:00",
+        "end": null
+      },
+      "isDayTime": false,
+      "temperature": {
+        "value": 66,
+        "unit": "°F"
+      },
+      "relativeHumidity": {
+        "value": 81,
+        "unit": "%"
+      },
+      "windSpeed": {
+        "value": 3,
+        "unit": "mph"
+      },
+      "windDirection": {
+        "value": 60,
+        "unit": ""
+      },
+      "chanceRain": {
+        "value": 4,
+        "unit": "%"
+      },
+      "cloudCover": {
+        "value": 18,
+        "unit": "%"
+      },
+      "weatherDesc": "Of  None.",
+      "weatherType": 8
+    },
+    {
+      "validTime": {
+        "start": "2022-09-17T08:00:00-04:00",
+        "end": null
+      },
+      "isDayTime": true,
+      "temperature": {
+        "value": 62,
+        "unit": "°F"
+      },
+      "relativeHumidity": {
+        "value": 90,
+        "unit": "%"
+      },
+      "windSpeed": {
+        "value": 5,
+        "unit": "mph"
+      },
+      "windDirection": {
+        "value": 40,
+        "unit": ""
+      },
+      "chanceRain": {
+        "value": 6,
+        "unit": "%"
+      },
+      "cloudCover": {
+        "value": 13,
+        "unit": "%"
+      },
+      "weatherDesc": "Of  None.",
+      "weatherType": 8
+    },
+    {
+      "validTime": {
+        "start": "2022-09-17T14:00:00-04:00",
+        "end": null
+      },
+      "isDayTime": true,
+      "temperature": {
+        "value": 81,
+        "unit": "°F"
+      },
+      "relativeHumidity": {
+        "value": 46,
+        "unit": "%"
+      },
+      "windSpeed": {
+        "value": 7,
+        "unit": "mph"
+      },
+      "windDirection": {
+        "value": 50,
+        "unit": ""
+      },
+      "chanceRain": {
+        "value": 6,
+        "unit": "%"
+      },
+      "cloudCover": {
+        "value": 19,
+        "unit": "%"
+      },
+      "weatherDesc": "Of  None.",
+      "weatherType": 8
+    },
+    {
+      "validTime": {
+        "start": "2022-09-17T20:00:00-04:00",
+        "end": null
+      },
+      "isDayTime": false,
+      "temperature": {
+        "value": 75,
+        "unit": "°F"
+      },
+      "relativeHumidity": {
+        "value": 58,
+        "unit": "%"
+      },
+      "windSpeed": {
+        "value": 5,
+        "unit": "mph"
+      },
+      "windDirection": {
+        "value": 70,
+        "unit": ""
+      },
+      "chanceRain": {
+        "value": 9,
+        "unit": "%"
+      },
+      "cloudCover": {
+        "value": 13,
+        "unit": "%"
+      },
+      "weatherDesc": "Of  None.",
+      "weatherType": 8
+    },
+    {
+      "validTime": {
+        "start": "2022-09-18T02:00:00-04:00",
+        "end": null
+      },
+      "isDayTime": false,
+      "temperature": {
+        "value": 65,
+        "unit": "°F"
+      },
+      "relativeHumidity": {
+        "value": 81,
+        "unit": "%"
+      },
+      "windSpeed": {
+        "value": 3,
+        "unit": "mph"
+      },
+      "windDirection": {
+        "value": 50,
+        "unit": ""
+      },
+      "chanceRain": {
+        "value": 9,
+        "unit": "%"
+      },
+      "cloudCover": {
+        "value": 12,
+        "unit": "%"
+      },
+      "weatherDesc": "Of  None.",
+      "weatherType": 8
+    },
+    {
+      "validTime": {
+        "start": "2022-09-18T08:00:00-04:00",
+        "end": null
+      },
+      "isDayTime": true,
+      "temperature": {
+        "value": 63,
+        "unit": "°F"
+      },
+      "relativeHumidity": {
+        "value": 86,
+        "unit": "%"
+      },
+      "windSpeed": {
+        "value": 5,
+        "unit": "mph"
+      },
+      "windDirection": {
+        "value": 30,
+        "unit": ""
+      },
+      "chanceRain": {
+        "value": 8,
+        "unit": "%"
+      },
+      "cloudCover": {
+        "value": 11,
+        "unit": "%"
+      },
+      "weatherDesc": "None.",
+      "weatherType": 8
+    },
+    {
+      "validTime": {
+        "start": "2022-09-18T14:00:00-04:00",
+        "end": null
+      },
+      "isDayTime": true,
+      "temperature": {
+        "value": 83,
+        "unit": "°F"
+      },
+      "relativeHumidity": {
+        "value": 45,
+        "unit": "%"
+      },
+      "windSpeed": {
+        "value": 6,
+        "unit": "mph"
+      },
+      "windDirection": {
+        "value": 50,
+        "unit": ""
+      },
+      "chanceRain": {
+        "value": 8,
+        "unit": "%"
+      },
+      "cloudCover": {
+        "value": 11,
+        "unit": "%"
+      },
+      "weatherDesc": "None",
+      "weatherType": 8
+    },
+    {
+      "validTime": {
+        "start": "2022-09-18T20:00:00-04:00",
+        "end": null
+      },
+      "isDayTime": false,
+      "temperature": {
+        "value": 77,
+        "unit": "°F"
+      },
+      "relativeHumidity": {
+        "value": 56,
+        "unit": "%"
+      },
+      "windSpeed": {
+        "value": 4,
+        "unit": "mph"
+      },
+      "windDirection": {
+        "value": 70,
+        "unit": ""
+      },
+      "chanceRain": {
+        "value": 8,
+        "unit": "%"
+      },
+      "cloudCover": {
+        "value": 11,
+        "unit": "%"
+      },
+      "weatherDesc": "Of  None.",
+      "weatherType": 8
+    }
+  ]
+}

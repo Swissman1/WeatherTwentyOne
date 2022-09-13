@@ -30,6 +30,7 @@ public class Temperature
     public override string ToString() => $"{Value}˚{Unit}";
 }
 
+
 public class MinMaxTemperature
 {
     public Temperature Minimum { get; set; }

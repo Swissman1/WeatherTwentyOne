@@ -1,4 +1,5 @@
 ﻿using Microsoft.Maui.LifecycleEvents;
+using WeatherClient2021;
 using WeatherTwentyOne.Pages;
 using WeatherTwentyOne.ViewModels;
 
@@ -43,6 +44,11 @@ public static class MauiProgram
             services.AddSingleton<INotificationService, MacCatalyst.NotificationService>();
 #endif
         services.AddSingleton<HomeViewModel>();
+        services.AddScoped<IWeatherService, DummyWeatherService>();
+        services.AddScoped<SettingsPage>();
+        services.AddSingleton<FavoritesViewModel>();
+        services.AddSingleton<FavoritesPage>();
+        services.AddSingleton<SettingsViewModel>();
         services.AddSingleton<HomePage>();
 
 

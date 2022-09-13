@@ -8,7 +8,6 @@
             <Border
                 HeightRequest="154"
                 WidthRequest="150"
-                x:DataType="m:Metric"
                 Stroke="Transparent"
                 BackgroundColor="{AppThemeBinding Light={StaticResource LightGray}, Dark={StaticResource Background_Mid}}">
                 <Border.StrokeShape>
@@ -16,7 +15,7 @@
                         CornerRadius="40" />
                 </Border.StrokeShape>
                 <Grid
-                    Margin="15"
+                    Margin="20"
                     ColumnDefinitions="*"
                     RowDefinitions="*">
                     <Grid.GestureRecognizers>
@@ -50,7 +49,7 @@
                 Stroke="Transparent"
                 BackgroundColor="{AppThemeBinding Light={StaticResource LightGray}, Dark={StaticResource Background_Mid}}">
                 <Border.StrokeShape>
-                    <RoundRectangle CornerRadius="40"/>
+                    <RoundRectangle CornerRadius="20"/>
                 </Border.StrokeShape>
                 <Grid
                     Margin="15"

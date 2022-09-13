@@ -15,7 +15,7 @@
                           BackgroundColor="Transparent"
                           HasShadow="False"
                           HeightRequest="120"
-                          WidthRequest="100"
+                          WidthRequest="120"
                           HorizontalOptions="Start"
                           VerticalOptions="Start"
                           Padding="0">
@@ -100,7 +100,7 @@
                 <VerticalStackLayout Spacing="8">
                     <VerticalStackLayout Spacing="8">
                         <Image 
-                            HeightRequest="115"
+                            HeightRequest="110"
                             Aspect="AspectFit"
                             Source="fluent_weather_moon_16_filled.png"/>
                         <Label Text="{Binding Temperature}" 

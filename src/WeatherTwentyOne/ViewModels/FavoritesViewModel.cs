@@ -8,7 +8,7 @@ namespace WeatherTwentyOne.ViewModels;
 
 public class FavoritesViewModel : INotifyPropertyChanged
 {
-    IWeatherService weatherService = new WeatherService(null);
+    IWeatherService weatherService = new DummyWeatherService(null);
 
     private ObservableCollection<Location> favorites;
     public ObservableCollection<Location> Favorites {

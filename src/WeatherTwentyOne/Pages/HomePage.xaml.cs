@@ -53,7 +53,7 @@ public partial class HomePage : ContentPage
             trayService.Initialize();
             trayService.ClickHandler = () =>
                 ServiceProvider.GetService<INotificationService>()
-                    ?.ShowNotification("Hello Build! 😻 From .NET MAUI", "How's your weather?  It's sunny where we are 🌞");
+                    ?.ShowNotification("Hello World From .NET MAUI", "How's your weather?");
         }
     }
 }

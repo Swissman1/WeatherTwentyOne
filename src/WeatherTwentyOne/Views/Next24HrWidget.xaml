@@ -22,7 +22,7 @@
                             class="Small"
                             HorizontalOptions="Center"/>
                         <Image
-                            Source="{Binding Day.Phrase, StringFormat='{0:F2}.png'}"
+                            Source="{Binding Day.Phrase, StringFormat='fluent_weather_{0}.png'}"
                             WidthRequest="40"
                             HeightRequest="40"
                             HorizontalOptions="Center"/>

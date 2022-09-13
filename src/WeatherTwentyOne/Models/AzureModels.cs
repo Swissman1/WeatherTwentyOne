@@ -21,14 +21,7 @@ public class Maximum
     public string Unit { get; set; }
 }
 
-public class Temperature
-{
-    [JsonPropertyName("minimum")]
-    public Minimum Minimum { get; set; }
 
-    [JsonPropertyName("maximum")]
-    public Maximum Maximum { get; set; }
-}
 
 public class Day
 {
